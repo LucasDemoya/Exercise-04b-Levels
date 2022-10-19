@@ -1,6 +1,5 @@
 
 # Exercise-04b-Levels
-
 Exercise for MSCH-C220
 
 The third exercise for the 2D Platformer project, exploring the TileMap node.
